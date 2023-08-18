@@ -1,4 +1,5 @@
 import csv,os
+import pequisar
 def remover_usuario():
     return
 
